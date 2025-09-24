@@ -1,0 +1,30 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Namste-react course",
+  "scripts": {
+    "start": "parcel index.html",
+    "built": "parcel built index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keerthana-V-2004/Reactjs.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Keerthana v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keerthana-V-2004/Reactjs/issues"
+  },
+  "homepage": "https://github.com/Keerthana-V-2004/Reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
